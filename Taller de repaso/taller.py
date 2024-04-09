@@ -58,11 +58,9 @@ elemento1 = Elemento("A")
 elemento2 = Elemento("B")
 elemento3 = Elemento("C")
 
-# Crear instancias de conjuntos
 conjunto1 = Conjunto("Conjunto A")
 conjunto2 = Conjunto("Conjunto B")
 
-# Agregar elementos a los conjuntos
 conjunto1.agregar_elemento(elemento1)
 conjunto1.agregar_elemento(elemento2)
 
